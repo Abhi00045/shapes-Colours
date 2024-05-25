@@ -54,7 +54,7 @@ function changeColor(){
  but1.addEventListener("click",changeShape);
 
  let arr =["square", "round", "diamond", "triangle", "arrow", "frame",
-  "star","cross", "left-point", "right-point", "parallel", "chiSquare"];
+  "star","cross", "left-point", "right-point", "parallel", "chiSquare","triangle-down"];
 
  function changeShape(){
    function random(){
